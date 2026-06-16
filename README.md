@@ -27,4 +27,6 @@ python smart_cli_calculator.py
 ```
 
 ## Author
-**Sanjay Jangid**
+**Sanjay Jangid** 
+
+GitHub: https://github.com/Sanjay08055
